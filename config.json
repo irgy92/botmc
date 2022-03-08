@@ -1,0 +1,9 @@
+{
+	"ip":"irgy92.aternos.me",
+	"port": "41661",
+	"name": "bot24jam92",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
